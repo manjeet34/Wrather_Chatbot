@@ -16,8 +16,8 @@ This is an advanced chatbot application built with Python, featuring both text a
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/advanced-chatbot.git
-    cd advanced-chatbot
+    [git clone https://github.com/yourusername/advanced-chatbot.git
+    cd advanced-chatbot](https://github.com/manjeet34/Wrather_Chatbot/blob/main/weatherchatbot.py)
     ```
 
 2. **Create and activate a virtual environment**:
