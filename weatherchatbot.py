@@ -18,7 +18,7 @@ nltk.download("stopwords")
 
 class AdvancedChatbot:
     def __init__(self, root):
-        self.api_key = os.getenv("OPENWEATHERMAP_API_KEY", '3addda958fba07cae40c853004740f67')
+        self.api_key = os.getenv("OPENWEATHERMAP_API_KEY", 'api_key_here') #please create an api key from OpenWeather site and paste it here
         self.weather_url = "https://api.openweathermap.org/data/2.5/weather"
         self.air_quality_url = "https://api.openweathermap.org/data/2.5/air_pollution"
         self.forecast_url = "https://api.openweathermap.org/data/2.5/forecast"
