@@ -101,4 +101,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Author
 
-- [Manjeet Singh](https://github.com/manjeet34)
+- [Manjeet Nagar](https://github.com/manjeet34)
